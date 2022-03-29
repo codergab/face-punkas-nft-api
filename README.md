@@ -2,7 +2,7 @@
 
 ### NFT GraphQL API for Face Punkas NFT Project.
 
-### Built with [thegraph.con](TheGraph) and [https://www.typescriptlang.org/](TypeScript)
+### Built with [TheGraph](thegraph.com) and [TypeScript](https://www.typescriptlang.org/)
 
-### Test the API [https://api.thegraph.com/subgraphs/name/codergab/gb-face-punkas](Here)
+### Feel Free to Test the API [Here]([https://api.thegraph.com/subgraphs/name/codergab/gb-face-punkas)
 
